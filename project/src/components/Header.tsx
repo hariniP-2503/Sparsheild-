@@ -9,7 +9,7 @@ const Header: React.FC = () => {
           <ShieldAlert size={28} className="text-blue-400" />
         </div>
         <div>
-          <h1 className="text-xl md:text-2xl font-bold">Hybrid Light Barrier Infection Control</h1>
+          <h1 className="text-xl md:text-2xl font-bold">Sparsheild+</h1>
           <p className="text-slate-400 text-sm hidden md:block">Real-time Monitoring Dashboard</p>
         </div>
       </div>
